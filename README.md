@@ -1,2 +1,0 @@
-# Simon-game
-Mini game
